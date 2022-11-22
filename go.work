@@ -1,0 +1,9 @@
+go 1.19
+
+use (
+	./01hello
+	./02variables
+	./03userInput
+	./04conversion
+	./05time
+)
